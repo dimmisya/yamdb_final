@@ -1,6 +1,6 @@
-![workflow status](https://github.com/dimmisya/infra_sp2/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
+[![Django-app workflow](https://github.com/dimmisya/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/dimmisya/yamdb_final/actions/workflows/yamdb_workflow.yml)
 ### Описание
-API сервиса Yamdb. Позволяет читать и добавлять отзывы о различных произведениях искусства: книгах, фильмах, музыке и не только. Спсисок произведений расширяется администраторами. Дает вызможность выставлять рейтинг произведениям и смотреть их текущий рейтинг на данном ресурсе.
+API сервиса Yamdb http://158.160.5.95/. Позволяет читать и добавлять отзывы о различных произведениях искусства: книгах, фильмах, музыке и не только. Спсисок произведений расширяется администраторами. Дает вызможность выставлять рейтинг произведениям и смотреть их текущий рейтинг на данном ресурсе.
 ### Технологии
 - Python 3.7
 - django 2.2.16
